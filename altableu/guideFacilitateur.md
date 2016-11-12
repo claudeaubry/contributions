@@ -10,3 +10,8 @@ L'animateur fournit à chaque équipe les cartons correspondant aux sites de la 
 Il explique l'objectif pour les participants (il est rappelé sur le descriptif de la situation fourni aux participants).
 ## Durée
 Environ 1h30.
+- 5 à 10' pour créer les équipes, distribuer le matériel, mettre en place la logistique d'affichage pour chaque équipe
+- 20' pour construire le tableau de la situation 1
+- 20' de débriefing
+- 20' pour construire le tableau de la situation 2
+- 20' de débriefing
