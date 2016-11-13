@@ -17,3 +17,8 @@ Environ 1h30.
 - 20' de débriefing
 - 20' pour construire le tableau de la situation 2
 - 20' de débriefing
+
+## Conseils
+- Annoncer le temps qui passe
+- Inviter les joueurs, au bout de quelques minutes, à résumer ce qui est marqué et à structurer l'information fournie ("ok si on comprend bien, il y a 1 construction en analyse, 2 en cours..."), potentiellement sur une feuille blanche (à prévoir)
+- Préciser qu'il n'est pas possible d'écrire sur les cartes fournies, mais qu'elles peuvent aller sur le tableau
