@@ -11,13 +11,11 @@ Bon cette histoire de Canal du Midi a perturbé les équipes. Finalement nous av
 
 Sinon on a 3 sites terminés maintenant et qui accueillent des visiteurs. Cependant on vient de m'annoncer un  problème sur le site terminé le premier : il y a un effondrement qui empêche le public d'y accéder normalement. Il va falloir résoudre ça au plus vite.
 
-Sur un site il ne reste que l'aménagement à faire, les autres chantiers sont finis.
+Sur un site en construction, il ne reste que l'aménagement à faire, les autres chantiers sont finis.
 
-On a 2 autres sites en cours de construction, en plus du Canal du Midi. 
+Sur un autre site, les Aveyronnais viennent de finir un chantier aujourd'hui, ça fait 4 de finis, et il y a les Landais sur un dernier chantier. Ah oui, j'avais oublié de vous dire qu'il a fallu louer de la main d'oeuvre à la région Nouvelle Aquitaine pour un mois, parce qu'on n'avait pas la compétence en Occitanie, il fallait des échasses.
 
-Sur le premier, les Aveyronnais viennent de finir un chantier aujourd'hui, ça fait 4 de finis, et il y a les Landais sur un dernier chantier. Ah oui, j'avais oublié de vous dire qu'il a fallu louer de la main d'oeuvre à la région Nouvelle Aquitaine pour un mois, parce qu'on n'avait pas la compétence en Occitanie, il fallait des échasses.
-
-Sur le second, il y a ce chantier sur lequel les Ariégeois sont bloqués. Les Cévenols viennent de finir un autre chantier aujourd'hui, ça fait 3 de fini. Ils travaillent bien les Cévenols, mais là, le préfet de région vient de me les retirer pour une semaine pour qu'ils aillent ramasser les châtaignes.
+Sur encore un autre, il y a ce chantier sur lequel les Ariégeois sont bloqués. Les Cévenols viennent de finir un chantier aujourd'hui, ça fait 3 de fini. Ils travaillent bien les Cévenols, mais là, le préfet de région vient de me les retirer pour une semaine pour qu'ils aillent ramasser les châtaignes.
 
 Un site est en train d'être étudié et devrait bientôt démarrer, mais pas avant que le Canal du Midi soit fini, parce qu'on va s'en servir pour l'acheminement du matériel. 
 ## Objectif pour les participants
