@@ -9,7 +9,7 @@ Enfin, pour éviter de se disperser, il a été décidé de limiter à 3 les sit
 ## Voici que nous dit le chef de chantier au retour de sa tournée
 Bon cette histoire de Canal du Midi a perturbé les équipes. Finalement nous avons réussi à embaucher les Catalans qui ont rejoint le consortium. Ils sont actuellement sur un chantier qui vient de commencer pour le Canal du Midi. Sur ce même chantier, on a aussi les Ariégeois qui étaient sur un chantier d'un autre site en construction mais qui est bloqué par le manque de matériel disponible. Toujours sur le Canal du Midi, on a ouvert un 2e chantier avec les Aveyronnais.
 
-Sinon on a 3 sites terminés maintenant. Le problème c'est qu'on vient de trouver un gros problème sur le site terminé le premier : il y a un effondrement qui empêche le public d'y accéder. Il va falloir résoudre ça au plus vite.
+Sinon on a 3 sites terminés maintenant et qui accueillent des visiteurs. Cependant on vient de m'annoncer un  problème sur le site terminé le premier : il y a un effondrement qui empêche le public d'y accéder normalement. Il va falloir résoudre ça au plus vite.
 
 Sur un site il ne reste que l'aménagement à faire, les autres chantiers sont finis.
 
