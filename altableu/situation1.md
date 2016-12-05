@@ -19,6 +19,6 @@ Pour le second, on vient de s'apercevoir avec les Cévenols qu'un chantier qu'on
 
 Deux autres sites sont en train d'être étudiés et pourront bientôt démarrer.
 ## Objectif pour les participants
-Réaliser en 20' un beau tableau décrivant au mieux la situation. 
+Réaliser un beau tableau décrivant au mieux la situation. 
 
 Il servira à la présenter au préfet de région. On sait qu'il est intéressé par savoir, en plus de l'avancement des sites, quels chantiers sont en cours de construction et qui fait quoi dessus.
