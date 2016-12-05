@@ -19,7 +19,7 @@ Sur encore un autre, il y a ce chantier sur lequel les Ariégeois sont bloqués.
 
 Un site est en train d'être étudié et devrait bientôt démarrer, mais pas avant que le Canal du Midi soit fini, parce qu'on va s'en servir pour l'acheminement du matériel. 
 ## Objectif pour les participants
-Réaliser en 20' un (ou plusieurs) beau tableau décrivant au mieux la situation, toujours pour le préfet de région. 
+Réaliser un (ou plusieurs) beau tableau décrivant au mieux la situation, toujours pour le préfet de région. 
 
 Présenter au préfet, en expliquant la stratégie suivie pour améliorer le tableau à partir de la situation 1.
 ## Question subsidiaire
