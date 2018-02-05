@@ -6,7 +6,7 @@ Il y a quelques jours, la région a demandé de commencer un nouveau site, à fa
 D'autre part, les travaux d'aménagement peuvent être désormais réalisés par d'autres que les Audois et deviennent un 6e chantier de construction des sites.
 
 Enfin, pour éviter de se disperser, il a été décidé de limiter à 3 les sites en construction.
-## Voici que nous dit le chef de chantier au retour de sa tournée
+## Voici que nous dit le chef de chantier au retour de sa tournée, dans son langage à lui
 Bon, cette histoire de Canal du Midi a perturbé les équipes. Finalement nous avons réussi à embaucher les Catalans qui ont rejoint le consortium. Ils sont actuellement sur un chantier qui vient de commencer pour le Canal du Midi. Sur ce même chantier, on a aussi les Ariégeois qui étaient sur un chantier d'un autre site en construction mais qui est bloqué par le manque de matériel disponible. Toujours sur le Canal du Midi, on a ouvert un 2e chantier avec les Aveyronnais.
 
 Sinon on a 3 sites terminés maintenant et qui accueillent des visiteurs. Cependant on vient de m'annoncer un  problème sur le site terminé le premier : il y a un effondrement qui empêche le public d'y accéder normalement, il faut faire un détour pour rentrer. Il va falloir résoudre ça au plus vite.
@@ -24,4 +24,4 @@ Réaliser un (ou plusieurs) beau tableau décrivant au mieux la situation, toujo
 Présenter au préfet, en expliquant la stratégie suivie pour améliorer le tableau à partir de la situation 1.
 ## Question subsidiaire
 Il ne reste du budget que pour 6 mois à effectif constant (Ariégeois, Aveyronnais, Gersois, Audois, Cévenols et Catalans).
-Le président de région voudrait savoir quels sites ne pourront pas être finis avec ce budget. Que lui dites-vous ?
+Le président de région voudrait savoir quels sites pourront être finis avec ce budget. Que lui dites-vous ?
